@@ -1,0 +1,25 @@
+{
+  "name": "mfa-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "auth0-lock": "^10.5.1",
+    "bootstrap": "^3.3.7",
+    "classnames": "^2.2.5",
+    "dotenv": "^2.0.0",
+    "jwt-decode": "^2.1.0",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2",
+    "react-router": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
