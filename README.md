@@ -1,6 +1,6 @@
 ## MFA-REACT
 
-This is a sample application that shows how to implement multi-factor authentication in your React applications.
+This is a sample application that shows how to [implement multi-factor authentication](https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps) in your React applications.
 
 ## Installation
 
