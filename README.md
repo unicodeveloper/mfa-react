@@ -11,5 +11,5 @@ Make sure you have the [create-react-app](https://github.com/facebookincubator/c
 * 3. Open up `src/views/routes.js` and replace the placeholders `_AUTH0_CLIENT_ID_` and `_AUTH0_DOMAIN_` with real values from your [Auth0 dashboard](https://manage.auth0.com/#/).
 * 4. Run `npm start` and proceed!
 
-This [tutorial](#) is necessary to fully configure this application for multi-factor authentication implementation.
+This [tutorial](https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps) is necessary to fully configure this application for multi-factor authentication implementation.
 
